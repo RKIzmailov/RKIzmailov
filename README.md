@@ -1,9 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Rustem</h1>
+<h1 align="center">Hi there, I'm Rustem</h1>
 <h3 align="center">Junior Data Scientist with in-depth knowledge of the business environment, methodologies, process organization, economics, and legislation, capable of finding intelligent solutions and insights.</h3>
-
-- 🌱 I’m currently learning **Linux, Scikit learn, PyTorch, etc.**
-
-- 💬 Ask me about **Data science, machine learning, data driven approach**
 
 - 📫 How to reach me **rkizmailov@gmail.com**
 
