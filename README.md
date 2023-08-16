@@ -18,7 +18,7 @@
 ![Plotly](https://img.shields.io/badge/Plotly-black?=for-the-badge&logo=Plotly&logoColor=2fafef)
 
 <p align="left">ML:</p>
-![Scikitlearn](https://img.shields.io/badge/Scikitlearn-black?=for-the-badge&logo=Scikitlearn&logoColor=2fafef)
+![Scikitlearn](https://img.shields.io/badge/Scikitlearn-black)
 
 
 <p align="left">ML:</p>
