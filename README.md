@@ -8,9 +8,9 @@
 <p align="left">Programming:</p>
 
 ![Python](https://img.shields.io/badge/Python-black?=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/Sql-black?=for-the-badge&logo=mysql)
+![SQL](https://img.shields.io/badge/Sql-black?=for-the-badge&logo=mysql&logoColor=e53768ff)
 
-<p align="left">Data Workflow and Visualization:</p>
+<p align="left">Data Workflow and Visualization:</p>  
 
 ![Pandas](https://img.shields.io/badge/Pandas-black?=for-the-badge&logo=pandas&logoColor=B00A2D)
 ![Numpy](https://img.shields.io/badge/Numpy-black?=for-the-badge&logo=numpy&logoColor=0B7AEF)
