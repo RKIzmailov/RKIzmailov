@@ -19,7 +19,8 @@
 
 <p align="left">ML:</p>
 
-![Static Badge](https://img.shields.io/badge/Scikit-learn?style=%3Dfor-the-badge%26logo%3DScikit-learn&logo=Scikit-learn&logoColor=faf56aff&color=black)
+![Scikit-learn](https://img.shields.io/badge/Scikit-learn?style=%3Dfor-the-badge%26logo%3DScikit-learn&logo=Scikit-learn&logoColor=faf56aff&color=black)
+![CatBoost](https://img.shields.io/badge/CatBoost?style=%3Dfor-the-badge%26logo%3DCatBoost&logo=CatBoost&logoColor=faf56aff&color=black)
 
 
 <p align="left">ML:</p>
