@@ -11,10 +11,10 @@
 
 <p align="left">Data Workflow and Visualization:</p>
 
-![Pandas](https://img.shields.io/badge/Pandas-black?=for-the-badge&logo=pandas&logoColor=#b00a2d)
-![Numpy](https://img.shields.io/badge/Numpy-black?=for-the-badge&logo=numpy&logoColor=#0b7aef)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-black?=for-the-badge&logo=matplotlib&logoColor=#49f6b1)
-![Seaborn](https://img.shields.io/badge/Seaborn-black?=for-the-badge&logo=seaborn&logoColor=#f2ac0d)
+![Pandas](https://img.shields.io/badge/Pandas-black?=for-the-badge&logo=pandas&logoColor=#B00A2D)
+![Numpy](https://img.shields.io/badge/Numpy-black?=for-the-badge&logo=numpy&logoColor=#0B7AEF)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-black?=for-the-badge&logo=Matplotlib&logoColor=#49f6b1)
+![Seaborn](https://img.shields.io/badge/Seaborn-black?=for-the-badge&logo=Seaborn&logoColor=#f2ac0d)
 ![Plotly](https://img.shields.io/badge/Plotly-black?=for-the-badge&logo=Plotly&logoColor=#2fafef)
 
 
