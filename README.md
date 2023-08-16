@@ -26,6 +26,8 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-black?=for-the-badge&logo=PyTorch&logoColor=17a2f5ff)
 
 
+<a href="https://www.codewars.com/users/rkizmailov/badges/large"
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
