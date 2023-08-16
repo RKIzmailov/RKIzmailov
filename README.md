@@ -12,7 +12,7 @@
 <p align="left">Data Workflow and Visualization:</p>
 
 ![Pandas](https://img.shields.io/badge/Pandas-black?=for-the-badge&logo=pandas&logoColor=FF0000)
-![Numpy](https://img.shields.io/badge/Numpy-black?=for-the-badge&logo=numpy)
+![Numpy](https://img.shields.io/badge/Numpy-black?=for-the-badge&logo=numpy&logoColor=27A0D9)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-black?=for-the-badge&logo=matplotlib)
 
 
