@@ -8,7 +8,7 @@
 <p align="left">Programming:</p>
 
 ![Python](https://img.shields.io/badge/Python-black?=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/Sql-black?=for-the-badge&logo=mysql&logoColor=e53768ff)
+![SQL](https://img.shields.io/badge/Sql-black?=for-the-badge&logo=mysql&logoColor=B00A2D)
 
 <p align="left">Data Workflow and Visualization:</p>  
 
