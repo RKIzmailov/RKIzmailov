@@ -24,6 +24,7 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit-learn?style=%3Dfor-the-badge%26logo%3DScikit-learn&logo=Scikit-learn&logoColor=faf56aff&color=black)
 ![CatBoost](https://img.shields.io/badge/CatBoost-black?=for-the-badge&logo=CatBoost&logoColor=2fafef)
 ![XGBoost](https://img.shields.io/badge/XGBoost-black?=for-the-badge&logo=XGBoost&logoColor=2fafef)
+|
 ![PyTorch](https://img.shields.io/badge/PyTorch-black?=for-the-badge&logo=PyTorch&logoColor=3580e7)
 
 
@@ -31,6 +32,7 @@
 <h3 align="left">Follow Me:</h3>
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-black?=for-the-badge&logo=linkedin&logoColor=2fafef)](https://www.linkedin.com/in/rustem-izmailov)
-[![Kaggle](https://img.shields.io/badge/Kaggle-black?=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/rustemizmailov)
 [![Facebook](https://img.shields.io/badge/Facebook-black?=for-the-badge&logo=facebook&logoColor=1f79f6)](https://www.facebook.com/rustem.izmailov/)
+|
+[![Kaggle](https://img.shields.io/badge/Kaggle-black?=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/rustemizmailov)
 [![Codewars](https://www.codewars.com/users/rkizmailov/badges/micro)](https://www.codewars.com/users/rkizmailov)
