@@ -6,7 +6,7 @@
 <p align="left">Programming:</p>
 
 ![Python](https://img.shields.io/badge/Python-black?=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/Sql-black?=for-the-badge&logo=mysql&logoColor=fffc12)
+![SQL](https://img.shields.io/badge/SQL-black?=for-the-badge&logo=mysql&logoColor=fffc12)
 
 <p align="left">Data Workflow and Visualization:</p>  
 
