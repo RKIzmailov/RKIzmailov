@@ -1,5 +1,5 @@
 <h1>Hi there, I'm Rustem</h1>
-<h3>Junior Data Scientist with in-depth knowledge of the business environment, methodologies, process organization, economics, and legislation, capable of finding intelligent solutions and insights.</h3>
+<h4>Junior Data Scientist with in-depth knowledge of the business environment, methodologies, process organization, economics, and legislation, capable of finding intelligent solutions and insights.</h4>
 
 - 📫 How to reach me **rkizmailov@gmail.com**
 
@@ -11,9 +11,9 @@
 
 <p align="left">Data Workflow and Visualization:</p>
 
-![Pandas](https://img.shields.io/badge/Pandas-blue?=for-the-badge&logo=pandas)
-![Numpy](https://img.shields.io/badge/Numpy-green?=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-yellow?=for-the-badge&logo=matplotlib)
+![Pandas](https://img.shields.io/badge/Pandas-black?=for-the-badge&logo=pandas)
+![Numpy](https://img.shields.io/badge/Numpy-black?=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-black?=for-the-badge&logo=matplotlib)
 
 
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
