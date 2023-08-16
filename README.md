@@ -28,7 +28,6 @@
 <h3 align="left">Follow Me:</h3>
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-black?=for-the-badge&logo=linkedin&logoColor=2fafef)](https://www.linkedin.com/in/rustem-izmailov)
-[![Kaggle](https://img.shields.io/badge/Kaggle-black?=for-the-badge&logo=kaggle&logoColor=0B7AEF)](https://www.kaggle.com/rustemizmailov)
-[![Facebook](https://img.shields.io/badge/Bacebook-black?=for-the-badge&logo=facebook&logoColor=1f79f6)](https://www.facebook.com/rustem.izmailov/)
-
-
+[![Kaggle](https://img.shields.io/badge/Kaggle-black?=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/rustemizmailov)
+[![Facebook](https://img.shields.io/badge/Facebook-black?=for-the-badge&logo=facebook&logoColor=1f79f6)](https://www.facebook.com/rustem.izmailov/)
+[![Codewars](https://www.codewars.com/users/rkizmailov/badges/micro)]
