@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Rustem</h1>
-<h3 align="center">Junior Data Scientist with in-depth knowledge of the business environment, methodologies, process organization, economics, and legislation, capable of finding intelligent solutions and insights.</h3>
+<h1>Hi there, I'm Rustem</h1>
+<h3>Junior Data Scientist with in-depth knowledge of the business environment, methodologies, process organization, economics, and legislation, capable of finding intelligent solutions and insights.</h3>
 
 - 📫 How to reach me **rkizmailov@gmail.com**
 
