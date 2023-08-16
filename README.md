@@ -25,9 +25,11 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Follow Me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rustem-izmailov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rustem-izmailov/" height="30" width="40" /></a>
+![Linkedin](https://img.shields.io/badge/Linkedin-black?=for-the-badge&logo=linkedin&logoColor=1f79f6ff)(https://www.linkedin.com/in/rustem-izmailov)
+  
+<a href="https://linkedin.com/in//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rustem-izmailov/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/rustemizmailov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/rustemizmailov" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/rustem.izmailov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rustem.izmailov/" height="30" width="40" /></a>
 </p>
