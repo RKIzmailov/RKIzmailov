@@ -27,11 +27,8 @@
 
 <h3 align="left">Follow Me:</h3>
 
-<p align="left">
+[![Linkedin](https://img.shields.io/badge/Linkedin-black?=for-the-badge&logo=linkedin&logoColor=FF0000)](https://www.linkedin.com/in/rustem-izmailov)
 
-![Linkedin](https://img.shields.io/badge/Linkedin-black?=for-the-badge&logo=linkedin&logoColor=1f79f6ff)(https://www.linkedin.com/in/rustem-izmailov)
-
-</p>
 
 
 <a href="https://linkedin.com/in//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rustem-izmailov/" height="30" width="40" /></a>
