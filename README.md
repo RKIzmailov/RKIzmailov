@@ -20,7 +20,8 @@
 <p align="left">ML:</p>
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit-learn?style=%3Dfor-the-badge%26logo%3DScikit-learn&logo=Scikit-learn&logoColor=faf56aff&color=black)
-![CatBoost](https://img.shields.io/badge/CatBoost?style=%3Dfor-the-badge%26logo%3DCatBoost&logo=CatBoost&logoColor=faf56aff&color=black)
+![CatBoost](https://img.shields.io/badge/CatBoost-black?=for-the-badge&logo=CatBoost&logoColor=2fafef)
+
 
 
 <p align="left">ML:</p>
