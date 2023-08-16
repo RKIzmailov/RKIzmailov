@@ -21,6 +21,8 @@
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit-learn?style=%3Dfor-the-badge%26logo%3DScikit-learn&logo=Scikit-learn&logoColor=faf56aff&color=black)
 ![CatBoost](https://img.shields.io/badge/CatBoost-black?=for-the-badge&logo=CatBoost&logoColor=2fafef)
+![XGBoost](https://img.shields.io/badge/XGBoost-black?=for-the-badge&logo=XGBoost&logoColor=2fafef)
+![PyTorch](https://img.shields.io/badge/PyTorch-black?=for-the-badge&logo=PyTorch&logoColor=17a2f5ff)
 
 
 
