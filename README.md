@@ -6,12 +6,15 @@
 <p align="left">Programming:</p>
 
 ![Python](https://img.shields.io/badge/Python-black?=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-black?=for-the-badge&logo=mysql&logoColor=fffc12)
+
 
 <p align="left">Data Workflow and Visualization:</p>  
 
 ![Pandas](https://img.shields.io/badge/Pandas-black?=for-the-badge&logo=pandas&logoColor=B00A2D)
 ![Numpy](https://img.shields.io/badge/Numpy-black?=for-the-badge&logo=numpy&logoColor=0B7AEF)
+|
+![SQL](https://img.shields.io/badge/SQL-black?=for-the-badge&logo=mysql&logoColor=fffc12)
+|
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-black?=for-the-badge&logo=Matplotlib&logoColor=49f6b1)
 ![Seaborn](https://img.shields.io/badge/Seaborn-black?=for-the-badge&logo=Seaborn&logoColor=f2ac0d)
 ![Plotly](https://img.shields.io/badge/Plotly-black?=for-the-badge&logo=Plotly&logoColor=2fafef)
