@@ -21,19 +21,14 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit-learn?style=%3Dfor-the-badge%26logo%3DScikit-learn&logo=Scikit-learn&logoColor=faf56aff&color=black)
 ![CatBoost](https://img.shields.io/badge/CatBoost-black?=for-the-badge&logo=CatBoost&logoColor=2fafef)
 ![XGBoost](https://img.shields.io/badge/XGBoost-black?=for-the-badge&logo=XGBoost&logoColor=2fafef)
-![PyTorch](https://img.shields.io/badge/PyTorch-black?=for-the-badge&logo=PyTorch&logoColor=17a2f5ff)
+![PyTorch](https://img.shields.io/badge/PyTorch-black?=for-the-badge&logo=PyTorch&logoColor=3580e7)
 
 
 
 <h3 align="left">Follow Me:</h3>
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-black?=for-the-badge&logo=linkedin&logoColor=FF0000)](https://www.linkedin.com/in/rustem-izmailov)
-
-
-
-<a href="https://linkedin.com/in//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rustem-izmailov/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/rustemizmailov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/rustemizmailov" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/rustem.izmailov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rustem.izmailov/" height="30" width="40" /></a>
-
+[![Linkedin](https://img.shields.io/badge/Linkedin-black?=for-the-badge&logo=linkedin&logoColor=2fafef)](https://www.linkedin.com/in/rustem-izmailov)
+[![Kaggle](https://img.shields.io/badge/Kaggle-black?=for-the-badge&logo=kaggle&logoColor=0B7AEF)](https://www.kaggle.com/rustemizmailov)
+[![Facebook](https://img.shields.io/badge/Bacebook-black?=for-the-badge&logo=facebook&logoColor=1f79f6)](https://www.facebook.com/rustem.izmailov/)
 
 
