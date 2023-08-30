@@ -1,5 +1,5 @@
 <h1>Hi there, I'm Rustem</h1>
-<h4>Junior Data Scientist with in-depth knowledge of the business environment, methodologies, process organization, economics, and legislation, capable of finding intelligent solutions and insights.</h4>
+<h4> Data Scientist with in-depth knowledge of the business environment, methodologies, process organization, economics, and legislation, capable of finding intelligent solutions and insights.</h4>
 
 <h3 align="left">Languages and Tools:</h3>
 
