@@ -36,3 +36,4 @@
 |
 [![Kaggle](https://img.shields.io/badge/Kaggle-black?=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/rustemizmailov)
 [![Codewars](https://www.codewars.com/users/rkizmailov/badges/micro)](https://www.codewars.com/users/rkizmailov)
+![14116776](https://road-to-kaggle-grandmaster.vercel.app/api/simple/{14116776})
